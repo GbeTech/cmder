@@ -1,0 +1,853 @@
+node -v
+python
+node -v
+python
+c:\Sync\Code\becomics-site
+cd c:\Sync\Code\becomics-site
+zip assoc
+assoc zip
+assoc .zip
+assoc .xxe
+assoc .xxe=VSCode
+assoc .xxe=WinRAR
+assoc .zip=WinRAR
+assoc
+assoc .json=VSCode
+assoc .json=Code.exe
+help
+tree
+cd ..
+help
+tree
+cd ..
+cd c:\mongodb\server\4.0.0\bin
+mongod --install
+mongod --config "c:\MongoDB\Server\4.0.0\bin\mongod.cfg" --install
+mongod
+mongod --dbpatch "d:\mongodata"
+npm -v
+mongod --dbpath "d:\mongodata"
+mongod --dbpatch "d:\mongodata"
+npm -v
+mongod --dbpath "d:\mongodata"
+cd c:\mongodb
+dir
+cd server
+cd 4.0.0
+cd bin
+mongo
+mongod
+mongo help
+mongod help
+mongod --dbpath="d:\mongodata"
+c:\Sync\Code\becomics-site
+zip assoc
+assoc zip
+assoc .zip
+assoc .xxe
+assoc .xxe=VSCode
+assoc .xxe=WinRAR
+assoc .zip=WinRAR
+assoc
+assoc .json=VSCode
+assoc .json=Code.exe
+tree
+cd ..
+cd c:\Sync\Code\becomics-site
+npm install mongoose
+cd
+dirlist
+listdir
+dir list
+list dir
+help
+dir
+cd src_public_beta
+node server
+node -h
+node server port=40671
+node server "port=40671"
+start nodeUpstart
+node server port=27017
+node server "port=27017"
+node server "port=27017"
+env\scripts\activate
+pip search firebase admin
+pip search firebase-admin
+pip search firebase-client
+cls
+pip list
+pip search google-cloud-firestore
+node server "port=40671"
+start nodeUpstart
+node server port=27017
+node server "port=27017"
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud
+gcloud info
+gcloud components update
+py -2.7 "c:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -3.6 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+python "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+gcloud beta emulators datastore start
+pip search google-cloud-firestore
+gcloud info
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+gcloud --help
+gcloud h
+gcloud version
+gcloud components --help
+gcloud components list
+gcloud components remove beta
+gcloud components remove betcloud-datastore-emulator
+gcloud
+gcloud
+gcloud info
+gcloud components update
+py -2.7 "c:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -3.6 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+python "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+gcloud beta emulators datastore start
+pip search google-cloud-firestore
+gcloud info
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+gcloud --help
+gcloud h
+gcloud version
+gcloud components --help
+gcloud components list
+gcloud components remove beta
+gcloud components remove betcloud-datastore-emulator
+gcloud
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+c
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+node server port=27017
+node server "port=27017"
+node server "port=27017"
+env\scripts\activate
+pip search firebase admin
+pip search firebase-admin
+pip search firebase-client
+pip list
+pip search google-cloud-firestore
+node server "port=40671"
+start nodeUpstart
+node server port=27017
+node server "port=27017"
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud
+gcloud info
+gcloud components update
+py -2.7 "c:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -3.6 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+python "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+gcloud beta emulators datastore start
+pip search google-cloud-firestore
+gcloud info
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+gcloud --help
+gcloud h
+gcloud version
+gcloud components --help
+gcloud components list
+gcloud components remove beta
+gcloud components remove betcloud-datastore-emulator
+gcloud
+gcloud
+gcloud info
+gcloud components update
+py -2.7 "c:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -3.6 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+python "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+gcloud beta emulators datastore start
+pip search google-cloud-firestore
+gcloud info
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+gcloud --help
+gcloud h
+gcloud version
+gcloud components --help
+gcloud components list
+gcloud components remove beta
+gcloud components remove betcloud-datastore-emulator
+gcloud
+c
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+node server "port=27017"
+pip search firebase admin
+pip search firebase-admin
+pip search firebase-client
+pip search google-cloud-firestore
+node server "port=40671"
+start nodeUpstart
+node server port=27017
+node server "port=27017"
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud
+gcloud info
+gcloud components update
+py -2.7 "c:\Program Files (x86)\Google\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -3.6 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+python "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+gcloud beta emulators datastore start
+pip search google-cloud-firestore
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\bin\dev_appserver.py" --support_datastore_emulator=true "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+gcloud --help
+gcloud h
+gcloud version
+gcloud components --help
+gcloud components remove beta
+gcloud components remove betcloud-datastore-emulator
+gcloud
+gcloud info
+gcloud components list
+gcloud components install app-engine-python
+cd C:\Sync\Code\Python\Talship\gae-207-firestore-test\
+dev_appserver.py app.yal
+dev_appserver.py app.yaml
+"c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\gae-207-firestore-test\app.yaml"
+env\scripts\activate
+pip list
+env\scripts\deactivate
+cd ..
+py -27 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+mongo
+mongod
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm i
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+VCTargetsPath\
+mongod
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+VCTargetsPath\
+mongod
+mongo
+cd ..
+py -27 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+py -2.7 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+mongo
+mongod
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cls
+c
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"remote_api_stub
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+gcloud
+gcloud info
+gcloud components update
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"remote_api_stub
+cc
+c
+s
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+env\scripts\activate
+pip search firebase-admin
+pip install -U firebase-admin
+pip search google-cloud-firestore
+pip search firestore
+python -m pip install --upgrade pip
+pip list
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --enable_console
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=debug
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=critical
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --help
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" -
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_apserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=warning
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+env\scripts\activate
+pip search firebase-admin
+pip search google-cloud-firestore
+cls
+pip list
+pip search google
+gcloud infop
+gcloud info
+env\scripts\activate
+pip list
+pip search firebase-admin
+gcloud info
+cd sport-bingo-new
+env\scripts\activate
+pip search firebase-admin
+cls
+pip search Jinja2
+pip install -t lib Jinja2
+pip -t lib freeze>libreq.txt
+pip list
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+cd c:\Sync\Code\becomics-site\src_public_beta
+npm install -g --production windows-build-tools
+npm install --msvs_version=2013
+SET VCTargetsPath=c:\program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+VCTargetsPath
+VCTargetsPath\
+npm --upgrade
+npm i node
+npm -v
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"remote_api_stub
+cc
+c
+s
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+env\scripts\activate
+pip search firebase-admin
+pip install -U firebase-admin
+pip search google-cloud-firestore
+pip search firestore
+python -m pip install --upgrade pip
+pip list
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --enable_console
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=debug
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=critical
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --help
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" -
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_apserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=warning
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+env\scripts\activate
+pip search firebase-admin
+pip search google-cloud-firestore
+pip list
+pip search google
+gcloud infop
+gcloud info
+env\scripts\activate
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cd c:\Sync\Code\Python
+cd example4shachar
+git init
+git add
+git add .
+git add .gitignore
+pip list
+python -m pip install --upgrade pip
+py -3.6 list
+py -3.6 pip list
+py -3.6 -m pip list
+py -3.6 -m pip install -U pip
+py -3.6 -m pip install install https://codeload.github.com/immensity/python-git/zip/master
+py -3.6 -m pip install https://codeload.github.com/immensity/python-git/zip/master
+py -3.6 -m pip install python-git --upgrade
+cd ..
+cd git-automate
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+env\scripts\activate
+pip install https://codeload.github.com/immensity/python-git/zip/master
+pip install python-git --upgrade
+python  C:\Sync\Code\Python\git-automate\env\lib\site-packages/pygit/main.py -h
+python  C:\Sync\Code\Python\git-automate\env\lib\site-packages/pygit/main.py -g="C:\Program Files\Git\cmd\git.exe"
+python  C:\Sync\Code\Python\git-automate\env\lib\site-packages/pygit/main.py -g "C:\Program Files\Git\cmd\git.exe"
+python  C:\Sync\Code\Python\git-automate\env\lib\site-packages/pygit/main.py -g "C:\Program Files\Git\git-cmd.exe"
+python
+python
+python
+cd ..
+cd sport-bingo-new
+git push -f origin master
+python
+env\scripts\activate
+pip list
+pip install typing -t lib
+node -v
+npm uninstall
+npm i
+npm email-templates
+npm i email-templates
+npm audit fix
+npm uninstall email-templates
+npm uninstall email-templates-v2
+npm install email-templates@2.x
+node server.js
+mongo
+mongod
+mongo
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"remote_api_stub
+cc
+c
+s
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --clear_datastore
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+env\scripts\activate
+pip search firebase-admin
+pip install -U firebase-admin
+pip search google-cloud-firestore
+pip search firestore
+python -m pip install --upgrade pip
+pip list
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --enable_console
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=debug
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=critical
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --help
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" -
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_apserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=warning
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+env\scripts\activate
+pip search firebase-admin
+pip search google-cloud-firestore
+pip list
+pip search google
+gcloud infop
+gcloud info
+env\scripts\activate
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cls
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+chkdsk C: /r
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" -
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=info
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_apserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=warning
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+env\scripts\activate
+pip search firebase-admin
+pip search google-cloud-firestore
+pip list
+pip search google
+gcloud infop
+env\scripts\activate
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cls
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+gcloud components update
+glcoud --account
+gcloud
+gcloud app instances describe
+gcloud app
+gcloud app describe
+gcloud app update
+gcloud app instances
+gcloud deployment-manager
+gcloud deployment-manager --help
+gcloud config
+gcloud config get-value
+gcloud config list
+gcloud config set
+gcloud config --help
+gcloud config configurations set interactive
+gcloud config set interactive
+gcloud config set interactive --help
+gcloud info
+gcloud app update c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml
+gcloud app deploy --help
+gcloud account --help
+gcloud account list
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="https://storage.googleapis.com/staging.sportbingopush.appspot.com/40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket=https://storage.googleapis.com/staging.sportbingopush.appspot.com/40125547_2421def2_ccb02ef9_b01d22c9_77b4c547
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket=gs://40125547_2421def2_ccb02ef9_b01d22c9_77b4c547
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="gs://40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app domain-mapping list
+gcloud app instances list
+gcloud app instances delete
+gcloud app instances delete --service=20180723t171041
+gcloud app instances delete --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t171041
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t171041
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t17104
+gcloud config set project sprotbingo-dev
+gcloud config set project diesel-rain-194102
+gcloud auth iist
+gcloud auth list
+gcloud --help
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud projectslist
+gcloud projects list
+gcloud config set gcloudignore/enabled true
+gcloud create
+gcloud init
+gcloud help config
+gcloud app deploy
+gcloud app browse
+pip list
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+gcloud app instances
+gcloud deployment-manager
+gcloud deployment-manager --help
+gcloud config
+gcloud config get-value
+gcloud config list
+gcloud config set
+gcloud config --help
+gcloud config configurations set interactive
+gcloud config set interactive
+gcloud config set interactive --help
+gcloud info
+gcloud app update c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml
+gcloud app deploy --help
+gcloud account --help
+gcloud account list
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="https://storage.googleapis.com/staging.sportbingopush.appspot.com/40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket=https://storage.googleapis.com/staging.sportbingopush.appspot.com/40125547_2421def2_ccb02ef9_b01d22c9_77b4c547
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket=gs://40125547_2421def2_ccb02ef9_b01d22c9_77b4c547
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml --bucket="gs://40125547_2421def2_ccb02ef9_b01d22c9_77b4c547"
+gcloud app domain-mapping list
+gcloud app instances list
+gcloud app instances delete
+gcloud app instances delete --service=20180723t171041
+gcloud app instances delete --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t171041
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t171041
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2
+gcloud app instances delete default --service=00c61b117cbe5318aa15edbb7d2e67b3e40e0f24b5a6b20acc8e7d49050b01a72dfb54a6f2 --version=20180723t17104
+gcloud config set project sprotbingo-dev
+gcloud config set project diesel-rain-194102
+gcloud auth iist
+gcloud auth list
+gcloud --help
+gcloud app deploy c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud projectslist
+gcloud projects list
+gcloud create
+gcloud help config
+gcloud app browse
+pip search firebase-admin
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud init
+gcloud config set gcloudignore/enabled true
+gcloud app deploy
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=debug --enable_console
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=warning --enable_console
+fcls
+python
+env\scripts\activate
+pip list
+pip install -r requirements.txt
+pip freeze > req.txt
+cls
+min
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --clear_datastore
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" 
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml"
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info
+cls
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo-new\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+cd c:\Sync\Code\Python\Talship\sport-bingo-new
+gcloud config set project sportbingo-dev
+gcloud projects list
+gcloud init
+gcloud app deplo
+gcloud 
+gcloud app browse
+import os
+python
+gcloud info
+pip check jinja2
+pip install -U typing
+cd c:\Sync\Code\Python\autosyntax
+env\scripts\activate
+pip list
+python -m pip install -U pip
+pip search keyboard
+pip uninstall keyboard
+pip install keyboard
+python --version
+env\scripts\deactivate
+scripts\python.exe
+cd scripts\python.exe
+cd scripts
+listfile
+pip --v
+pip --version
+cd c:\Sync\Code\Python\run_as_admin
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install keyboard
+python --version
+cd c:\Sync\Code\Python\autosyntax
+pip freeze > req.txt
+env\scripts\deactivate
+virtualenv --python="c:\Program Files\Python37\python.exe" env
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install -r req.txt
+pip check
+pip install pur
+pur -r req.txt
+pip list
