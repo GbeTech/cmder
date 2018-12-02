@@ -851,3 +851,691 @@ pip check
 pip install pur
 pur -r req.txt
 pip list
+cd c:\Sync\Code\Python\goeswith
+pip list
+python --version
+env\scripts\deactivate
+scripts\python.exe
+cd scripts\python.exe
+cd scripts
+listfile
+pip --v
+pip --version
+cd c:\Sync\Code\Python\run_as_admin
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install keyboard
+python --version
+cd c:\Sync\Code\Python\autosyntax
+pip freeze > req.txt
+virtualenv --python="c:\Program Files\Python37\python.exe" env
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip install -r req.txt
+pip check
+pip install pur
+pur -r req.txt
+cd c:\Sync\Code\Python\goeswith
+virtualenv --python="c:\Program Files\Python36\python.exe" venv
+pip search django.db
+pip search django mysql
+pip install mysqlclient
+env\scripts\deactivate
+virtualenv --python="c:\Python37\python.exe" venv
+venv\scripts\activate
+pip install django
+pip search mysql
+pip install django mysql
+pip search manage
+pip install c:\Users\gbete\Downloads\mysqlclient-1.3.13-cp37-cp37m-win_amd64.whl
+python
+pip install mysql
+python manage.py runserver 127.0.0.1:8080
+python manage.py -h
+mysql
+pip list
+pip search mysql connector
+pip install mysql-connector
+pip check django
+pip info django
+pip -j
+pip -h
+pip show
+pip show django
+pip search django
+pip search Django
+python manage.py runserver
+venv\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+python
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+py -3.7 main.py
+cd c:\Sync\Code\Python\SCRATCHES\prodict
+env\scripts\activate
+python
+python main.py
+python manage.py -h
+mysql
+pip list
+pip search mysql connector
+pip install mysql-connector
+pip check django
+pip info django
+pip -j
+pip -h
+pip show
+pip show django
+pip search django
+pip search Django
+python manage.py runserver
+venv\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\SCRATCHES\prodict
+cls
+virtualenv --python="c:\Python37\python.exe" env
+python
+pip install prodict
+python main.py
+env\scripts\deactivate
+cd ..
+cd sanelogger
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+env\scripts\activate
+pip install sanelogger
+py -3.7 main.py
+py -2.7
+py -3.7 "c:\Sync\Code\Python\mustbreak\main.py"
+python
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+virtualenv --python="c:\Python37\python.exe" testenv
+pip install requests-html
+pip list
+pip install pyrebase
+pip uninstall pyrebase
+pip search prodict
+env\scripts\deactivate
+testenv\scripts\deactivate
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install prodict
+pip install firebase_admin
+pip install aiohttp
+pip freeze > req.txt
+python -m unittest discover -v tests
+py -3.7 -m unittest discover -v tests
+python -m unittest
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+py -2.7
+virtualenv --python="c:\Python27\python.exe" env
+pip install firebase_admin
+pip install requests_toolbelt
+pip install trepan2
+trepan2 --help
+pip install -t lib trepan2
+lib\scripts\activate
+env\scripts\activate
+trepan2 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+trepan2 python "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+trepan2 "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+python "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+gcloud
+gcloud components update
+env\scripts\deactivate
+py -3.6 -m unittest tests -v
+python -m unittest discover -s tests -v
+python -m unittest -v
+python -m unittest tests.py -v
+python -m unittest tests -v
+python -m unittest discover -v
+c
+"C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+trepan2 "C:\Google_Cloud_SDK\google-cloud-sdk\platform\bundledpython\python.exe" "c:\Google_Cloud_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" "c:\Sync\Code\Python\Talship\sport-bingo\app.yaml" --dev_appserver_log_level=warning --log_level=info --enable_console
+cd c:\Sync\Code\Python\SCRATCHES\rpdb
+virtualenv --python="c:\Python27\python.exe" env
+cd c:\Sync\Code\Python\mustbreak
+pip uninstall rpdb
+cd c:\Sync\Code\Python\ROX-NEW
+gcloud info
+cd c:\Sync\Code\Python\Talship\sport-bingo
+C:\Sync\Code\Python\Talship\sport-bingo\env\Scripts\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py
+C:\Sync\Code\Python\Talship\sport-bingo\env\Scripts\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py c:/Sync/Code/Python/Talship/sport-bingo/app.yaml
+pip check trepan2
+pip uninstall trepan2
+trepan2 C:\Sync\Code\Python\Talship\sport-bingo\env\Scripts\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py c:/Sync/Code/Python/Talship/sport-bingo/app.yaml --dev_appserver_log_level=warning
+c:\Users\gbete\.windows-build-tools\python27\Scripts\trepan2.exe C:\Sync\Code\Python\Talship\sport-bingo\env\Scripts\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py c:/Sync/Code/Python/Talship/sport-bingo/app.yaml --dev_appserver_log_level=warning
+env\scripts\activate
+pip install rpdg
+pip install rpdb
+pip install -t lib rpdb
+C:\Sync\Code\Python\Talship\sport-bingo\env\Scripts\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py c:/Sync/Code/Python/Talship/sport-bingo/app.yaml --dev_appserver_log_level=warning
+pip install webapp2
+pip install google-appengine
+pip search google ndb
+pip search appengine
+pip install python-appengine
+pip uninstall python-appengine
+pip install datastoredict
+pip install gaek
+pip install -t lib gaek
+pip install ndb_prop_gen
+pip install -t lib pip install ndb_prop_gen
+pip install -t lib ndb_prop_gen
+git -h
+git --help
+git diff
+git diff -h
+git diff --help
+git rebase --help
+git fetch --help
+git branch --help
+git diff --staged
+git checkout ndb-json
+git status
+git diff --cached
+git diff --color-moved=no master..ndb-json
+git diff --diff-algorithm=minimal master..ndb-json
+git diff --diff-algorithm=patience master..ndb-json
+git diff --diff-algorithm=patience master...ndb-json
+cls
+git diff master...ndb-json
+pip uninstall ndb-prop-gen
+git checkout master
+git diff master..ndb-json
+git log
+pip search datastoredict
+pip install -t lib datastoredict
+pip uninstall -t lib datastoredict
+pip uninstall datastoredict
+pip install bitarray
+pip install -t lib bitarray
+py -3.6 -m helpers.gaepush
+python helpers/gaepush
+python helpers/gaepush.py
+pip install jinja2
+python -m helpers.gaepush
+pip uninstall durabledict
+pip freeze > req.txt
+python -m ops.gaepush
+gaepush dev
+python -m ops.gaepush dev
+gcloud app browse --project=sprotbingo-dev
+pip list
+env\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+pip list
+pip install jinja2
+python -m helpers.gaepush
+pip uninstall durabledict
+pip freeze > req.txt
+gaepush dev
+gcloud app browse --project=sprotbingo-dev
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python -3.6 ops.gaepush -h
+python -3.6 -m ops.gaepush -h
+py -3.6 -m ops.gaepush -h
+python -m ops.gaepush -h
+python -m ops.gaepush
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\SCRATCHES\gae-py37
+gcloud
+gcloud app -h
+gcloud app --help
+gcloud project -h
+gcloud projects -h
+gcloud projects list
+gcloud projects create sportbingo-py37
+gcloud info
+gcloud config -h
+gcloud config set project sportbingo-py37
+gcloud config set gcloudignore/enabled true
+gcloud app create -i
+gcloud app create
+gcloud app deploy
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip install -r requirements.txt
+python main.py
+pip install firebase_admin
+pip install -t lib firebase_admin
+pip install requests_toolbelt
+pip install -t lib requests_toolbelt
+pip list
+pip uninstall Flask
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py c:\Sync\Code\Python\SCRATCHES\gae-py37\app.yaml --dev_appserver_log_level=warning
+env\scripts\deactivate
+py -3.7 main.py
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+pip list
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py app.yaml --dev_appserver_log_level=warning
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py app.yaml --dev_appserver_log_level=warning
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py app.yaml --dev_appserver_log_level=warning --clear_datastore
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py app.yaml
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py app.yaml
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py app.yaml --skip_sdk_update_check=False
+python C:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py app.yaml --skip_sdk_update_check=False
+pip install termcolor
+pip install -t lib termcolor
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+testenv\scripts\activate
+pip install termcolor
+pip freeze > req.txt
+C:\Sync\Code\Python\Talship\sport-bingo\testers\main.py --operator --exit_on_err
+python main.py --operator --exit_on_err
+env\scripts\deactivate
+testenv\scripts\deactivate
+cd c:\Sync\Code\Python\SCRATCHES\pydantic
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip search pydantic
+pip install pydantic
+pip search pydantic
+pip install pydantic
+cd c:\Sync\Code\Python\Talship\sport-bingo
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+pip install -r requirements.txt
+pip check
+pip install -t lib -r requirements.txt
+pip install -t lib typing
+pip install typing
+pip install -t lib requests_toolbelt
+pip uninstall firebase-admin
+pip uninstall google-auth
+pip list
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+gcloud projects list
+gcloud projects set sportbingopush
+gcloud config set project sportbingopush
+gcloud config set project sprotbingo-dev
+gcloud info
+cd c:\Sync\Code\Python\SCRATCHES\outtahere
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+pip install -r requirements_old.txt
+pip install termcolor
+pip install -t lib -r requirements_old.txt
+pip install -t lib termcolor
+pip install typing
+pip install -t lib typing
+pip search google-cloud
+pip list
+python -m ops.gaepush
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python main.py
+virtualenv --python="c:\Python37\python.exe" env
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+python main.py
+pip -v
+pip -V
+pip list
+pip -H
+pip -h
+pip config
+pip config list
+pip install ipython
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python ops.gaepush dev
+python -m ops.gaepush dev
+pip install ipython
+python ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud info
+pip list
+pip search firebase-admin
+pip search requests
+pip install -U requests
+pip install -U -t lib requests
+pip search six
+pip search urllib3
+python -m ops.gaepush dev
+env\scripts\deactivate
+env\scripts\deactivate
+cd c:\Users\gbete\Downloads
+ffmpeg -ss 01:32:43 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:45 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud app browse
+python -m ops.gaepush dev
+env\scripts\deactivate
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud app browse
+python -m ops.gaepush dev
+gcloud info
+gcloud components update
+env\scripts\deactivate
+py -3.7 main.py
+gcloud projects list
+gcloud projects set sportbingopush
+gcloud config set project sportbingopush
+gcloud config set project sprotbingo-dev
+gcloud info
+cd c:\Sync\Code\Python\SCRATCHES\outtahere
+cd c:\Sync\Code\Python\mustbreak
+py -3.7 main.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+pip install -r requirements_old.txt
+pip install termcolor
+pip install -t lib -r requirements_old.txt
+pip install -t lib termcolor
+pip install typing
+pip install -t lib typing
+pip search google-cloud
+pip list
+python -m ops.gaepush
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python main.py
+virtualenv --python="c:\Python37\python.exe" env
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+python main.py
+pip -v
+pip -V
+pip list
+pip -H
+pip -h
+pip config
+pip config list
+pip install ipython
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python ops.gaepush dev
+python -m ops.gaepush dev
+pip install ipython
+python ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud info
+pip list
+pip search firebase-admin
+pip search requests
+pip install -U requests
+pip install -U -t lib requests
+pip search six
+pip search urllib3
+python -m ops.gaepush dev
+env\scripts\deactivate
+env\scripts\deactivate
+cd c:\Users\gbete\Downloads
+ffmpeg -ss 01:32:43 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:45 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud app browse
+python -m ops.gaepush dev
+env\scripts\deactivate
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud app browse
+python -m ops.gaepush dev
+gcloud info
+gcloud components update
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Pyano
+git clone https://github.com/electron/electron-quick-start
+cd electron-quick-start
+npm install && npm start
+git rm --cached .idea/workspace.xml
+git commit -m "remove workspace.xml"
+cd ..
+git rm --cached -r .idea/
+git commit -m "remove idea"
+git push origin master
+cd gui
+npm install python-shell
+npm test
+npm install path
+npm info
+npm install electron-debug
+npm install electron-reload
+npm uninstall electron-reload
+npm
+npm -l
+npm install sweetalert2
+npm install electron-store
+npm start
+npm list
+npm install -g electron-forge
+electron-forge
+electron-forge import
+npm install electron-prebuilt-compile@3.0.7
+npm install electron-prebuilt-compile=3.0.7
+npm -h
+npm install -h
+npm install electron-prebuilt-compile
+electron-forge make
+npm install python-shell
+npm test
+npm install path
+npm info
+npm install electron-debug
+npm install electron-reload
+npm uninstall electron-reload
+npm
+npm -l
+npm install sweetalert2
+npm install electron-store
+npm start
+npm list
+npm install -g electron-forge
+electron-forge
+electron-forge import
+npm install electron-prebuilt-compile@3.0.7
+npm install electron-prebuilt-compile=3.0.7
+npm -h
+npm install -h
+npm install electron-prebuilt-compile
+electron-forge make
+cd c:\Sync\Code\Python\lame-uncle
+pip search flask
+pip install flask
+pip uninstall flask
+pip search djangorestframework
+django-admin startproject project
+django-admin startapp app_name
+cd project
+django-admin startapp lame
+pip list
+pipenv install django djangorestframework
+django-admin startproject lame_project
+cd lame_project
+django-admin startproject backend
+django-admin startapp backend
+django-admin startapp lame_app
+python manage.py makemigrations lame_app
+cd c:\Sync\Code\Python\lame-app
+cd backend
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip install django djangorestframework
+django-admin startproject
+django-admin startproject lame_uncle
+cd lame_uncle
+django-admin startapp
+django-admin startapp app
+python manage.py makemigrations app
+python manage.py migrate
+python manage.py runserver
+env\scripts\deactivate
+cd ..
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud app browse
+python -m ops.gaepush dev
+env\scripts\deactivate
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\Talship\sport-bingo
+gcloud app browse
+python -m ops.gaepush dev
+gcloud info
+gcloud components update
+cd c:\Sync\Code\Python\Pyano\Pyano
+git status
+git commit -m "gitignore"
+cd c:\Sync\Code\Python\Pyano\electron-quick-start\engine
+pip search rapidconnect
+pip install rapidconnect
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+virtualenv --python="c:\Python37\python.exe" env
+pip search mido
+pip install mido
+env\scripts\activate
+cd ..
+env\scripts\deactivate
+pip install termcolor
+pip install -t lib -r requirements_old.txt
+pip install -t lib termcolor
+pip install typing
+pip install -t lib typing
+pip search google-cloud
+pip list
+python -m ops.gaepush
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python main.py
+virtualenv --python="c:\Python37\python.exe" env
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py
+env\scripts\activate
+python main.py
+python main.py
+pip -v
+pip -V
+pip list
+pip -H
+pip -h
+pip config
+pip config list
+pip install ipython
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python ops.gaepush dev
+python -m ops.gaepush dev
+pip install ipython
+python ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+gcloud info
+pip list
+pip search firebase-admin
+pip search requests
+pip install -U requests
+pip install -U -t lib requests
+pip search six
+pip search urllib3
+python -m ops.gaepush dev
+env\scripts\deactivate
+cd c:\Users\gbete\Downloads
+ffmpeg -ss 01:32:43 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:45 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+ffmpeg -ss 01:32:44 -i "barcelona vs paris saint germain 6-1full match.nbox r7 .mp4" -c copy -t 00:11:00 output.mp4
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 140
+python main.py 120
+python main.py 110
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge
+electron-forge init my-new-project
+cd my-new-project
+npm list
+npm install electron@latest
+npm audit
+npm install apth
+npm install path
+npm start
+npm install electron-debug
+npm install electron-store
+electron-forge package
+yarn
+electron-forge start
+cd c:\Program Files (x86)\Yarn\bin
+yarn init
