@@ -1539,3 +1539,250 @@ yarn
 electron-forge start
 cd c:\Program Files (x86)\Yarn\bin
 yarn init
+cd c:\Sync\Code\Python\lame-app
+npm install
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 110
+python main.py 30
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 110
+npm start
+npm install electron-debug
+npm install electron-store
+electron-forge package
+yarn
+electron-forge start
+cd c:\Program Files (x86)\Yarn\bin
+yarn init
+cd c:\Sync\Code\Python\lame-app
+npm install
+cd c:\Sync\Code\Python\mustbreak
+python main.py 110
+python main.py 30
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+gcloud app browse
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+testenv\scripts\activate
+pip list
+pip freeze > testrequirements.txt
+python main.py 30
+gcloud app browse
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+pip freeze > requirements.txt
+pip list
+gcloud version
+gcloud info
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+env\scripts\deactivate
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 110
+python main.py 110
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+env\scripts\activate
+pip install pyusb
+pip list
+env\scripts\deactivate
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+cd c:\Sync\Code\Python\mustbreak
+python main.py 110
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --port=8083
+python -m ops.gaepush dev
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+py -2.7 -m pip install python-midi
+pip install python-midi
+pip list
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+env\scripts\activate
+pip search python-midi
+env\scripts\deactivate
+virtualenv --python="c:\Python27\python.exe" py2env
+py2env\scripts\activate
+pip install python-midi
+python -m c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+pip list
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+env\scripts\deactivate
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+env\scripts\activate
+python
+pip list
+pip install mido
+pip install python-rtmidi
+pip freeze > requirements.txt
+python midi.py
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 110
+python main.py 110
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+env\scripts\activate
+pip install pyusb
+pip list
+env\scripts\deactivate
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning
+cd c:\Sync\Code\Python\mustbreak
+python main.py 110
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\bundledpython\python.exe C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --port=8083
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+py -2.7 -m pip install python-midi
+pip install python-midi
+cd c:\Sync\Code\Python\python-midi-clone
+virtualenv --python="c:\Python27\python.exe" env
+python setup.py install
+pip list
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididump.py
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididump.py "c:\Sync\Code\Python\python-midi-clone\mary.mid"
+env\scripts\activate
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm install @material/button
+npm uninstall @material/button
+electron-forge start
+npm start
+pip search python-midi
+virtualenv --python="c:\Python27\python.exe" py2env
+py2env\scripts\activate
+pip install python-midi
+python -m c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+python c:\Sync\Code\Python\python-midi-clone\scripts\mididumphw.py
+pip list
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mido-clone
+virtualenv --python="c:\Python27\python.exe" env
+python setup.py docs
+python setup.py install
+virtualenv --python="c:\Program Files\Python36\python.exe" py3env
+env\scripts\activate
+env\scripts\deactivate
+py3env\scripts\activate
+pip install mido
+pip install python-rtmidi
+python C:\Sync\Code\Python\mido-clone\examples\ports\receive.py
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=info --enable_console --port=8083
+env\scripts\deactivate
+py3env\scripts\activate
+pip install mido
+pip install python-rtmidi
+python C:\Sync\Code\Python\mido-clone\examples\ports\receive.py
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm install --save-dev devtron
+npm uninstall --save-dev devtron
+npm install devtron
+npm start
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=info --enable_console --port=8083
+python -m ops.gaepush dev
+כשדכשכ
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+testenv\scripts\activate
+pip list
+pip freeze > testrequirements.txt
+env\scripts\deactivate
+testenv\scripts\deactivate
+cd ..
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=info --enable_console --port=8083
+python -m ops.gaepush dev
+cd ..
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=info --enable_console --port=8083
+python -m ops.gaepush dev
+python main.py 110
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+env\scripts\activate
+python
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+env\scripts\activate
+pip install req.txt
+pip install -r req.txt
+python autosyntax.py
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+pip install req.txt
+env\scripts\activate
+python
+env\scripts\deactivate
+virtualenv --python="c:\Program Files\Python36\python.exe" py36env
+py36env\scripts\activate
+pip install -r req.txt
+python autosyntax.py
+npm start
+python manage.py
+"c:\Program Files\Python36\python.exe" manage.py
+"c:\Program Files\Python36\python.exe" manage.py runserver
+npm start
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=info --enable_console --port=8083
+gcloud components list
+gcloud components app-engine-python
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=warning --enable_console --port=8083
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 30
+python main.py 110
+python main.py 130
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+python student.py
+python main.py 110
+python main.py 130
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 80
+python main.py 120
