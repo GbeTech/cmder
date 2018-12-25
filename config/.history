@@ -1786,3 +1786,101 @@ cd c:\Sync\Code\Python\mustbreak
 env\scripts\activate
 python main.py 80
 python main.py 120
+python main.py 130
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 80
+python main.py 120
+py3env\scripts\activate
+python
+python C:\Sync\Code\Python\mido-clone\examples\ports\receive.py
+env\scripts\activate
+pip list
+python main.py 130
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 80
+python main.py 120
+npm list
+cls
+npm start
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=warning --enable_console --port=8083
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 30
+python main.py 110
+python main.py 130
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+python main.py 110
+python main.py 130
+ipconfig
+cd c:\Sync\Code\Python\Talship\spark
+python student.py
+python main.py 80
+cdc:\Sync\Code\Python\Talship\sport-bingo
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=error --log_level=warning --enable_console=True
+env\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=error --log_level=warning --enable_console=True
+cd c:\Sync\Code\Python\mustbreak
+python main.py 120
+env\scripts\activate
+whfasf
+cls
+python nothing.py
+env\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 110
+python main.py 120
+whfasf
+cls
+env\scripts\activate
+python nothing.py
+env\scripts\deactivate
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120
+npm start
+python main.py 80
+python main.py 120
+npm list
+npm start
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=warning --log_level=warning --enable_console --port=8083
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 30
+python main.py 110
+python main.py 130
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+python main.py 110
+python main.py 130
+ipconfig
+cd c:\Sync\Code\Python\Talship\spark
+python student.py
+python main.py 80
+cdc:\Sync\Code\Python\Talship\sport-bingo
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=error --log_level=warning --enable_console=True
+cd c:\Sync\Code\Python\mustbreak
+python main.py 120
+env\scripts\activate
+env\scripts\deactivate
+py3env\scripts\activate
+cls
+python examples/ports/receive.py
+py3env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+cd c:\Sync\Code\Python\Talship\spark
+python student.py
+env\scripts\activate
+python main.py 110
