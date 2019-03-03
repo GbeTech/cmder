@@ -1884,3 +1884,2058 @@ cd c:\Sync\Code\Python\Talship\spark
 python student.py
 env\scripts\activate
 python main.py 110
+virtualenv --python="c:\Python27\python.exe" env
+env\scripts\activate
+python main.py 110
+python main.py 130
+ipconfig
+cd c:\Sync\Code\Python\Talship\spark
+python student.py
+python main.py 80
+cdc:\Sync\Code\Python\Talship\sport-bingo
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=error --log_level=warning --enable_console=True
+cd c:\Sync\Code\Python\mustbreak
+python main.py 120
+env\scripts\activate
+py3env\scripts\activate
+python examples/ports/receive.py
+py3env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm xmas
+npm s
+npm ks
+npm ls
+npm config ls -l
+npm search
+cls
+npm search electron
+npm-folders
+npm ls electron-forge
+npm ls electron
+npm start
+env\scripts\deacctivate
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+env\scripts\activate
+python main.py 110
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+python student.py
+npm start
+python student.py
+env\scripts\activate
+python main.py 110
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+python student.py
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+env\scripts\activate
+python C:/GOOGLE_CLOUD_SDK/google-cloud-sdk/bin/dev_appserver.py app.yaml --dev_appserver_log_level=error --log_level=warning --enable_console=True
+npm start
+env\scripts\deacctivate
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+env\scripts\activate
+python main.py 110
+cd c:\Sync\Code\Python\Talship\spark
+env\scripts\activate
+python student.py
+python student.py
+npm start
+python student.py
+env\scripts\activate
+python main.py 110
+cd c:\Sync\Code\Python\Talship\spark
+python student.py
+python student.py
+cd c:\Sync\Code\Python\autosyntax
+env\scripts\activate
+env\scripts\deactivate
+py36env\scripts\activate
+python autosyntax.py
+py36env\scripts\deactivate
+cd c:\Sync\Code\Python\autosyntax_afterebcrash\autosyntax
+cd ..
+venv\scripts\activate
+cd autosyntax
+python manage.py
+python manage.py runserver
+venv\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+venv\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+env\scripts\activate
+python main.py 100
+python main.py 120
+python main.py 80
+python main.py 30
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\deactivate
+env\scripts\activate
+pip install termcolor
+python sanelogger.py
+env\scripts\activate
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 43
+python main.py 120
+env\scripts\deactivate
+env\scripts\activate
+pip install termcolor
+python sanelogger.py
+env\scripts\activate
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mustbreak
+python main.py 120
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+gcloud browse app
+gcloud app brows
+python -m ops.gcetester
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+env\scripts\activate
+'
+python main.py 120
+env\scripts\activate
+python main.py 120
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 43
+python main.py 120
+env\scripts\deactivate
+env\scripts\activate
+pip install termcolor
+python sanelogger.py
+env\scripts\activate
+cd c:\Sync\Code\Python\mustbreak
+python main.py 120
+gcloud browse app
+gcloud app brows
+python -m ops.gcetester
+python -m ops.gcetester ssh
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+testenv\scripts\activate
+pip freeze > testrequirements.txt
+testenv\scripts\deactivate
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -codec copy 
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -codec copy "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" copy "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" gif "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i scale=width=480:height=-1 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i scale=width=480 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+q
+ffmpeg q
+ffmpeg q?
+ffmpeg help
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps2w=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -r 10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -s 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+q
+ffmpeg q
+ffmpeg q?
+ffmpeg help
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps2w=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -r 10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -s 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gcetester scp --exclude="tenv*"
+python -m ops.gcetester scp --exclude="tenv/*"
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+ps
+ps ax | grep -i python
+env\scripts\deactivate
+ffmpeg q
+ffmpeg q?
+ffmpeg help
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps2w=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -r 10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -s 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activatre
+env\scripts\activate
+python main.py 120
+python main.py 120 niup
+python main.py 3 niup
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+env\scripts\activate
+python
+env\scripts\deactivate
+py3env\scripts\activate
+python examples/ports/receive.py
+env\scripts\activate
+python main.py 120 True
+python main.py 120
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+env\scripts\activate
+python
+env\scripts\deactivate
+py3env\scripts\activate
+python examples/ports/receive.py
+python main.py 120
+python main.py 120 niup
+python main.py 3 niup
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120 True
+python main.py 120 False
+python main.py 120 True
+python main.py 90
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm start
+cd c:\Sync\Code\Python\electronforge\my-new-project
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120 True
+python main.py 120 False
+npm help
+npm install -h
+npm install tambien/Piano
+npm build
+npm install webpack -h
+npm install webpack -g
+npm start
+npm install midiconvert@latest
+npm install tone@latest
+npm install uglifyjs@latest
+npm run build
+cd ..
+q
+ffmpeg q
+ffmpeg q?
+ffmpeg help
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps2w=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -r 10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -s 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gcetester scp --exclude="tenv*"
+python -m ops.gcetester scp --exclude="tenv/*"
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+ps
+ps ax | grep -i python
+env\scripts\deactivate
+ffmpeg q
+ffmpeg q?
+ffmpeg help
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif fps2w=10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -r 10 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+ffmpeg -i "c:\Users\gbete\Desktop\2019-01-12_19-28-15.mp4" -f gif -s 960x540 "c:\Users\gbete\Desktop\2019-01-12_19-28-15.gif"
+cd c:\Sync\Code\Python\mustbreak
+env\scripts\activatre
+env\scripts\activate
+python main.py 120
+python main.py 120 niup
+python main.py 3 niup
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+env\scripts\activate
+python
+env\scripts\deactivate
+py3env\scripts\activate
+python examples/ports/receive.py
+env\scripts\activate
+python main.py 120 True
+python main.py 120
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+py3env\scripts\activate
+python examples/ports/receive.py
+python main.py 120
+python main.py 120 niup
+python main.py 3 niup
+python main.py 3 True
+python main.py 120 True
+python main.py 90
+env\scripts\activate
+python -m ops.gaepush dev
+env\scripts\deactivate
+cd c:\Sync\Code\Python\electronforge\my-new-project
+npm i tone-piano
+npm list
+npm install midiconvert
+npm install webmidi
+npm install events
+npm start
+npm install -g electron-forge
+cd ..
+cd Pyano
+electron-forge init pyano_01
+cd pyano_01
+yarn info
+yarn why
+yarn why electron
+yarn upgrade -h
+yarn import -h
+yarn list
+yarn list --depth=-
+yarn list --depth=0
+yarn search -h
+cls
+yarn access -j
+yarn access -h
+yarn check -h
+yarn exec -h
+yarn outdated -h
+yarn uninstall -h
+yarn outdated
+yarn remove eslint-config-airbnb
+yarn remove eslint-plugin-jsx-a11y
+yarn run -h
+yarn upgrade-interactive -h
+yarn versions
+yarn workspace
+yarn workspaces
+yarn workspaces -h
+yarn workspace -h
+yarn install path@latest
+yarn add path@latest
+yarn unlink -h
+yarn list -h
+yarn list --pattern=eslint
+yarn run
+yarn install jquery
+yarn add jquery
+yarn add eslint
+yarn remove eslint
+python
+yarn add python-shell
+yarn -j
+yarn check
+yarn -h
+yarn upgradeInteractive
+yarn -j -h
+python gitignorer.py
+electron-forge start
+python gitignorer.py
+electron-forge start
+npm start
+cd ..
+cd c:\Sync\Code\Python\Talship\heatmap
+env\scripts\activate
+pip freeze > requirements.txt
+env\scripts\deactivate
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install events
+npm install -g electron-forge
+cd ..
+cd Pyano
+electron-forge init pyano_01
+cd pyano_01
+yarn info
+yarn why
+yarn why electron
+yarn upgrade -h
+yarn import -h
+yarn list
+yarn list --depth=-
+yarn list --depth=0
+yarn search -h
+yarn access -j
+yarn access -h
+yarn check -h
+yarn exec -h
+yarn outdated -h
+yarn uninstall -h
+yarn outdated
+yarn remove eslint-config-airbnb
+yarn remove eslint-plugin-jsx-a11y
+yarn run -h
+yarn upgrade-interactive -h
+yarn versions
+yarn workspace
+yarn workspaces
+yarn workspaces -h
+yarn workspace -h
+yarn install path@latest
+yarn add path@latest
+yarn unlink -h
+yarn list -h
+yarn list --pattern=eslint
+yarn run
+yarn install jquery
+yarn add jquery
+yarn add eslint
+yarn remove eslint
+python
+yarn add python-shell
+yarn -j
+yarn check
+yarn -h
+yarn upgradeInteractive
+yarn -j -h
+python gitignorer.py
+electron-forge start
+npm shrinkwrap -h
+npm init -h
+npm init -i
+npm install
+npm shrinkwrap
+python3 "npm_freeze.py"
+py3 "npm_freeze.py"
+py -3.6 "npm_freeze.py"
+py -3.6 "npm freeze.py" -hj
+py -3.6 "npm freeze.py" -h
+py -3.6 "npm freeze.py" -p "c:\Sync\Code\Python\Pyano\pyano_01\package.json" -n "c:\Sync\Code\Python\Pyano\pyano_01\npm-shrinkwrap.json"
+py -3.6 "npm freeze.py" --include_optional=False
+py -3.6 "npm freeze.py" --include_optional=True
+npm start
+py -3.6 "npm freeze.py"
+py -3.6 gitignorer.py "c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py -r "c:\Sync\Code\Python\Pyano\pyano_01"
+cd c:\Google Drive\Scripts
+git rm --cachd -r .idea
+git rm --cached -r .idea
+git commit -m "remove .idea"
+git push origin master
+py -3.6 npmfreeze.py "c:\Sync\Code\Python\electronforge\my-new-project"
+py -3.6 npmfreeze.py "c:\Sync\Code\Python\electronforge\my-new-project\"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\electronforge\my-new-project\"
+cls
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\electronforge\my-new-project"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\Pyano\electron-quick-start\gui"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\lame-app"
+cd c:\Google Drive\Code\Python\autosyntax
+env\scripts\activate
+pip freeze > envrequirements.txt
+env\scripts\deactivate
+py36env\scripts\activate
+pip freeze > py36envrequirements.txt
+py36env\scripts\deactivate
+cd c:\Google Drive\Code\Python\autosyntax_afterebcrash
+venv\scripts\deactivate
+py -3.7
+c:\python37\python "c:\Google Drive\Scripts\pip_freeze.py"
+pip -h
+python
+python
+cd c:\google drive\Code\Python\mustbreak
+py -3.7
+py -3.7.2
+py -3.72
+py -372
+py -3.7-32
+py -3.7 main.py 100 True
+cd c:\Google Drive\Code\Python\autosyntax
+env\scripts\activate
+pip freeze > envrequirements.txt
+env\scripts\deactivate
+py36env\scripts\activate
+pip freeze > py36envrequirements.txt
+py36env\scripts\deactivate
+cd c:\Google Drive\Code\Python\autosyntax_afterebcrash
+venv\scripts\deactivate
+py -3.7
+c:\python37\python "c:\Google Drive\Scripts\pip_freeze.py"
+pip -h
+python
+pip install send2trash
+cls
+python "c:\Google Drive\Scripts\pip_freeze.py"
+python
+cd "c:\google drive\scripts"
+python pip_freeze.py "C:\Google Drive\Code\Python\electronforge\my-new-project\src\engine"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-clone" "py3env"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-midi-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\python-midi-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\lame-uncle"
+python pip_freeze.py "C:\Google Drive\Code\Python\shachar\piano_melodies"
+python pip_freeze.py "C:\Google Drive\Code\Python\rox"
+python pip_freeze.py "C:\Google Drive\Code\Python\run_as_admin"
+python pip_freeze.py "C:\Google Drive\Code\Python\git-automate"
+python pip_freeze.py "C:\Google Drive\Code\Python\autosyntax-gui"
+python pip_freeze.py "C:\Google Drive\Code\Python\mustbreak"
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+C:\Program Files\Python36\scripts\pip install -r testrequirements.txt -t tenv
+"C:\Program Files\Python36\scripts\pip" install -r testrequirements.txt -t tenv
+"C:\Program Files\Python36\python" pip install --upgrade pp
+"C:\Program Files\Python36\python" pip install --upgrade pip
+"C:\Program Files\Python36\python" -m pip install --upgrade pip
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+"C:\Program Files\Python36\python" pip install --upgrade pip
+"C:\Program Files\Python36\python" -m pip install --upgrade pip
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gcetester -h
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python -m ops.gaepush dev
+cd c:\google drive\Code\Python\mustbreak
+env\scripts\activate
+python main.py 120 True
+py -3.6 gitignorer -r "c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py -r "c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py "c:\Sync\Code\Python\Pyano\pyano_01\.gitignore"
+py -3.6 gitignorer.py "c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py r"c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py -r r"c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py -r r"c:\Sync\Code\Python\Pyano\pyano_01\"
+py -3.6 gitignorer.py -h
+py -3.6 gitignorer.py -r c:\Sync\Code\Python\Pyano\pyano_01\
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+npm start
+cd src/engine
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+pip install -r requirements.txt
+env\scripts\deactivate
+cd c:\Sync\Code\Python\mido-clone
+py3env\scripts\activate
+python -m examples.midifiles.play_midi_file
+python -m examples.midifiles.play_midi_file "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\gilad\clair_de_lune.mid"
+python -m examples.midifiles.play_midi_file "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\gilad\sample.mid"
+python -m examples.midifiles.play_midi_file "c:\Sync\Code\Python\Pyano\pyano_01\new_song.mid"
+python -m examples.midifiles.play_midi_file "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\gilad\fur.mid"
+py3env\scripts\deactivate
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+cloc -h
+cloc -help
+cloc "c:\Sync\Code\Python\Pyano\pyano_01" --exclude-dir=.idea,.vscode,misc,node_modules,env,__pycache__
+python gitignorer.py
+electron-forge start
+python gitignorer.py
+electron-forge start
+npm start
+cd ..
+cd c:\Sync\Code\Python\Talship\heatmap
+env\scripts\activate
+pip freeze > requirements.txt
+env\scripts\deactivate
+npm install events
+npm install -g electron-forge
+cd Pyano
+electron-forge init pyano_01
+cd pyano_01
+yarn info
+yarn why
+yarn why electron
+yarn import -h
+yarn list --depth=-
+yarn list --depth=0
+yarn search -h
+yarn access -j
+yarn access -h
+yarn check -h
+yarn exec -h
+yarn outdated -h
+yarn uninstall -h
+yarn outdated
+yarn remove eslint-config-airbnb
+yarn remove eslint-plugin-jsx-a11y
+yarn run -h
+yarn upgrade-interactive -h
+yarn versions
+yarn workspace
+yarn workspaces
+yarn workspaces -h
+yarn workspace -h
+yarn install path@latest
+yarn add path@latest
+yarn unlink -h
+yarn list -h
+yarn list --pattern=eslint
+yarn run
+yarn install jquery
+yarn add jquery
+yarn add eslint
+yarn remove eslint
+python
+yarn add python-shell
+yarn -j
+yarn check
+yarn upgradeInteractive
+yarn -j -h
+python gitignorer.py
+electron-forge start
+npm shrinkwrap -h
+npm init -h
+npm init -i
+npm install
+npm shrinkwrap
+python3 "npm_freeze.py"
+py3 "npm_freeze.py"
+py -3.6 "npm_freeze.py"
+py -3.6 "npm freeze.py" -hj
+py -3.6 "npm freeze.py" -h
+py -3.6 "npm freeze.py" -p "c:\Sync\Code\Python\Pyano\pyano_01\package.json" -n "c:\Sync\Code\Python\Pyano\pyano_01\npm-shrinkwrap.json"
+py -3.6 "npm freeze.py" --include_optional=False
+py -3.6 "npm freeze.py" --include_optional=True
+py -3.6 "npm freeze.py"
+py -3.6 gitignorer.py "c:\Sync\Code\Python\Pyano\pyano_01"
+py -3.6 gitignorer.py -r "c:\Sync\Code\Python\Pyano\pyano_01"
+cd c:\Google Drive\Scripts
+git rm --cachd -r .idea
+git rm --cached -r .idea
+git commit -m "remove .idea"
+git push origin master
+py -3.6 npmfreeze.py "c:\Sync\Code\Python\electronforge\my-new-project"
+py -3.6 npmfreeze.py "c:\Sync\Code\Python\electronforge\my-new-project\"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\electronforge\my-new-project\"
+cls
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\electronforge\my-new-project"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\Pyano\electron-quick-start\gui"
+py -3.6 npmfreeze.py -r "c:\Sync\Code\Python\lame-app"
+cd c:\Google Drive\Code\Python\autosyntax
+env\scripts\activate
+pip freeze > envrequirements.txt
+env\scripts\deactivate
+py36env\scripts\activate
+pip freeze > py36envrequirements.txt
+py36env\scripts\deactivate
+cd c:\Google Drive\Code\Python\autosyntax_afterebcrash
+venv\scripts\deactivate
+py -3.7
+c:\python37\python "c:\Google Drive\Scripts\pip_freeze.py"
+pip -h
+python
+python
+cd c:\google drive\Code\Python\mustbreak
+py -3.7
+py -3.7.2
+py -3.72
+py -372
+py -3.7-32
+py -3.7 main.py 100 True
+cd c:\Google Drive\Code\Python\autosyntax
+env\scripts\activate
+pip freeze > envrequirements.txt
+py36env\scripts\activate
+pip freeze > py36envrequirements.txt
+py36env\scripts\deactivate
+cd c:\Google Drive\Code\Python\autosyntax_afterebcrash
+venv\scripts\deactivate
+py -3.7
+c:\python37\python "c:\Google Drive\Scripts\pip_freeze.py"
+python
+pip install send2trash
+python "c:\Google Drive\Scripts\pip_freeze.py"
+cd "c:\google drive\scripts"
+python pip_freeze.py "C:\Google Drive\Code\Python\electronforge\my-new-project\src\engine"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-clone" "py3env"
+python pip_freeze.py "C:\Google Drive\Code\Python\mido-midi-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\python-midi-clone"
+python pip_freeze.py "C:\Google Drive\Code\Python\lame-uncle"
+python pip_freeze.py "C:\Google Drive\Code\Python\shachar\piano_melodies"
+python pip_freeze.py "C:\Google Drive\Code\Python\rox"
+python pip_freeze.py "C:\Google Drive\Code\Python\run_as_admin"
+python pip_freeze.py "C:\Google Drive\Code\Python\git-automate"
+python pip_freeze.py "C:\Google Drive\Code\Python\autosyntax-gui"
+python pip_freeze.py "C:\Google Drive\Code\Python\mustbreak"
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+C:\Program Files\Python36\scripts\pip install -r testrequirements.txt -t tenv
+"C:\Program Files\Python36\scripts\pip" install -r testrequirements.txt -t tenv
+"C:\Program Files\Python36\python" pip install --upgrade pp
+"C:\Program Files\Python36\python" pip install --upgrade pip
+"C:\Program Files\Python36\python" -m pip install --upgrade pip
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+"C:\Program Files\Python36\python" pip install --upgrade pip
+"C:\Program Files\Python36\python" -m pip install --upgrade pip
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gcetester -h
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python -m ops.gaepush dev
+python -m ops.gcetester scp
+python -m ops.gcetester ssh
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\electronforge\my-new-project\src\engine
+python
+cd c:\Google Drive\Code\Python\SCRATCHES\midi2audio
+pip install midi2audio
+cd c:\Google Drive\Code\Python\SCRATCHES\midi2audio\env\Lib\site-packages
+py -3.6 midi2audio.py
+py -3.6 midi2audio.py -h
+py -3.6 midi2audio.py -s "fazioli_grand_piano.sf2" MIDI "clair_de_lune.mid"
+py -3.6 midi2audio.py clair_de_lune.py
+py -3.6 midi2audio.py clair_de_lune.mid
+py -3.6 midi2audio.py "c:\Google Drive\Code\Python\SCRATCHES\midi2audio\env\Lib\site-packages\clair_de_lune.mid"
+py -3.6 midiplay.py "c:\Google Drive\Code\Python\SCRATCHES\midi2audio\env\Lib\site-packages\clair_de_lune.mid"
+pip search fluidsynth
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+pip uninstall pyfluidsynth
+pip install pyfluidsynth
+python main.poy
+pip install fluidsynth
+pip install numpy
+cd c:\Google Drive\Code\Python\SCRATCHES\pyfluidsynth-master
+python setup.py install
+py -3.6 -m test.test1
+pip uninstall numpy
+pip uninstall fluidsynth
+py -3.6 -m pip install fluidsynth
+py -3.6 -m pip install numpy
+py -3.6 -m pip install pyfluidsynth
+py -3.6 test/test1.py
+cd fluidsynth
+env\scripts\activate
+env\scripts\deactivate
+py -3.6 -m pip uninstall pyfluidsynth
+py -3.6 -m pip install pyfluidsynth==1.2.5
+python main.py
+py -3.6 main.py
+pip install pyfluidsynth==1.2.5
+pip -h
+pip -e -h
+cd c:\Sync\Code\Python\Pyano\pyano_01\src\engine
+cd node_modules
+mklink /D local_modules "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+cd ..
+yarn upgrade -h
+mklink /D node_modules/local_modules "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+yarn install dts-gen
+yarn add dts-gen
+npm install -g dts-gen
+node
+node -h
+mklink /D "c:\Users\gbete\node_modules\local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+dts-gen -m "local_modules/util/Log"
+dts-gen -m "local_modules/util/Log" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Log.d.ts"
+dts-gen -m "local_modules/util/Log" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Log.d.ts" -o
+dts-gen -m "local_modules\util\Alert" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "local_modules.util.Alert" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "local_modules" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "local_modules/util" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "util" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "mypck" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+dts-gen -m "local_modules/mypck" -f "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules\util\Alert.d.ts" -o
+yarn remove dts-gen
+npm uninstall dts-gen
+yarn add dts-generator
+npm install -g dts-generator
+dts-generator --name mypck --project "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/mypck/package.json" --out mypck.d.ts
+dts-generator --name mypck --main mypck --project "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/mypck/package.json" --out mypck.d.ts
+npm install -g dtsmake
+dtsmake -h
+yarn add dtsmake
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js"
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" -p
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" -p node
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" --dist "c:\Sync\Code\Python\SCRATCHES\dtsmake"
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" --dist "c:\Sync\Code\Python\SCRATCHES\dtsmake" -e
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" --dist "c:\Sync\Code\Python\SCRATCHES\dtsmake" -e -S es6
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" --dist "c:\Sync\Code\Python\SCRATCHES\dtsmake" -e --exportStyle "legacy"
+dtsmake -s "c:\Sync\Code\Python\SCRATCHES\dtsmake\foo.js" --dist "c:\Sync\Code\Python\SCRATCHES\dtsmake" -e --exportStyle "es6"
+dtsmake -s "c:/Sync/Code/Python/SCRATCHES/dtsmake/foo.js" --dist "c:/Sync/Code/Python/SCRATCHES/dtsmake" -e --exportStyle "es6"
+dtsmake -s "c:/Sync/Code/Python/SCRATCHES/dtsmake/foo.js" --dist "c:/Sync/Code/Python/SCRATCHES/dtsmake"
+dtsmake -s "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/util/Log.js" -e
+dtsmake -s "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/util/Log.js"
+dtsmake -s "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/util/foo.js"
+dtsmake -s "c:/Sync/Code/Python/SCRATCHES/dtsmake/foo.js"
+dtsmake -s "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/util/foo.js" --dist "c:/Sync/Code/Python/Pyano/pyano_01/src/templates/js/local_modules/util"
+dtsmake -s foo.js
+dtsmake -s src/index.js
+dtsmake -s src/templates/js/init.js
+dtsmake -s src/templates/js/local_modules/util/
+dtsmake -s src/templates/js/local_modules/util
+dtsmake -s src/templates/js/local_modules/util/*
+dtsmake -s src/templates/js/local_modules/util/*.js
+dtsmake -s src/templates/js/local_modules/util/Log.js
+dtsmake -s src/templates/js/local_modules/util/Log.js -e
+dtsmake -s src/templates/js/local_modules/util/Log.js -e --exportStyle "es6"
+dtsmake -s src/templates/js/local_modules/util/Log.js --dist src/templates/js/local_modules/util
+cd c:\Sync\Code\Python\electronforge\my-new-project
+cd c:\Sync\Code\Python\Pyano\pyano_01
+yarn -h
+yarn upgrade midiconvert
+yarn upgrade tone
+npm install tone@next
+npm check
+npm -h
+npm audit -h
+npm dedupe help
+npm dedupe --help
+npm dedupe --h
+npm dedupe -h
+npm find-dupes -h
+npm help dedupe
+npm dedupe
+npm help list
+npm ls -h
+npm ln -h
+npm help outdated
+npm help prune
+npm prune --dry-run
+npm prune --dry-run --production
+npm view
+npm install browserlist@next
+npm install browserlist@latest
+npm uninstall browserlist
+npm install browserslist@latest
+npm install minimatch@latest
+npm install hoek@latest
+npm install boom@latest jade@latest constantinople@latest transformers@latest graceful-fs@latest
+npm install tone@latest
+npm uninstall eslint-plugin-import eslint-plugin-react
+npm install webpack@^4.3.0
+npm prune --dry-run --json
+cls
+npm ls --depth=0
+yarn why tone
+npm uninstall transformers
+npm install npm@latest
+npm -v
+npm install -g npm stable
+ nvm --help
+npm install latest
+npm outdated
+npm install center-align@latest exit-hook@latest locate-path@latest spawn-sync@latest webmidi@latest window-size@latest wrap-ansi@latest
+nvm install latest
+nvm -v
+nvm version
+npm doctor
+nvm list available
+yarn list
+mklink /D "node_modules/local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+npm
+npm start
+mklink /D "node_modules/local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+npm
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+ffmpeg -txt_format text -i "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv" "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).srt"
+ffmpeg -txt_format text -i "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv" "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).srt" --enable-libzvbi
+ffmpeg --enable-libzvbi
+npm
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+ffmpeg -txt_format text -i "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv" "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).srt"
+ffmpeg -txt_format text -i "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv" "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).srt" --enable-libzvbi
+ffmpeg
+ffmpeg -h
+ffmpeg --enable-libzvbi
+ffmpeg -i "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv" -map 0:s:0 "BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).srt"
+cd c:\Google Drive\Code\Python\srtclean
+cd "c:\Google Drive\Code\Python\srtclean"
+d:
+c:
+env\scripts\activate
+python main.py -h
+cls
+python main.py -f "d:\Downloads\Video\BoJack Horseman (2014) Season 5 S05 (1080p NF WEB-DL x265 HEVC 10bit AAC 5.1 YOGI)\BoJack Horseman (2014) - S05E03 - Planned Obsolescence (1080p NF WEB-DL x265 YOGI).mkv"
+python main.py -d "d:\Downloads\Video\BoJack Horseman (2014) Season 5 S05 (1080p NF WEB-DL x265 HEVC 10bit AAC 5.1 YOGI)"
+env\scripts\deactivate
+python gitignorer.py -h
+python gitignorer.py -r "c:\Sync\Code\Python\Pyano\pyano_01"
+cd c:\Google Drive\Code\Python\srtclean
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip install srt
+ nvm --help
+npm install latest
+npm outdated
+npm install center-align@latest exit-hook@latest locate-path@latest spawn-sync@latest webmidi@latest window-size@latest wrap-ansi@latest
+nvm install latest
+nvm -v
+nvm version
+npm doctor
+nvm list available
+yarn list
+mklink /D "node_modules/local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+npm
+npm start
+npm
+cd c:\Sync\Code\Python\Pyano\pyano_01
+yarn add python-bridge
+npm uninstall python-bridge
+npm install python-bridge
+mklink /D "node_modules/local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+npm start
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\python37
+listdir
+dirlist
+ldir
+help
+dir
+find -h
+find help
+find python
+find "python"
+find "LICENSE.txt"
+open .
+.
+py -3.7 pip install ipython
+py -3.7 -m pip install ipython
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+help
+cd engine
+set PYTHONPATH=.
+env\scripts\activate
+python
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+env\scripts\activate
+env\scripts\deactivate
+cd testers
+testenv\scripts\activate
+python --v main.py --debug
+python -vv main.py --debug
+python -v main.py --debug
+help
+dir
+find -h
+find help
+find python
+find "python"
+find "LICENSE.txt"
+open .
+.
+py -3.7 pip install ipython
+py -3.7 -m pip install ipython
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+cd engine
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+cd c:\Sync\Code\Python\Pyano\pyano_01\src\engine
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+env\scripts\activate
+pip -v
+pip install requirements -r
+pip install -r requirements.txt
+set PYTHONPATH=.
+pip -V
+help
+SETLOCAL
+SET
+SET -h
+python NewTest/get_subject_dirs_names.py 
+python -c "os.environ"
+python -c "import os; os.environ"
+python -c "import os; print(os.environ)"
+python -c "import os; from pprint import pprint as pp; pp(os.environ)"
+cls
+python -c "import os; from pprint import pprint as pp; pp(os.environ,depth=1)"
+env\scripts\deactivate
+python
+python -vv main.py --debug
+python -v main.py --debug
+npm start
+open .
+.
+py -3.7 pip install ipython
+py -3.7 -m pip install ipython
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+cd engine
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+pip -v
+pip install requirements -r
+pip install -r requirements.txt
+set PYTHONPATH=.
+pip -V
+help
+SETLOCAL
+SET
+SET -h
+python NewTest/get_subject_dirs_names.py 
+python -c "os.environ"
+python -c "import os; os.environ"
+python -c "import os; print(os.environ)"
+python -c "import os; from pprint import pprint as pp; pp(os.environ)"
+cls
+python -c "import os; from pprint import pprint as pp; pp(os.environ,depth=1)"
+python -vv main.py --debug
+python -v main.py --debug
+npm start
+cd c:\Sync\Code\Python\Pyano\pyano_01\src\engine
+cd  NewTest
+cd ..
+python -c "import os; '.' in os.environ"
+python -c "import os; print '.' in os.environ"
+python -c "import os; print('.' in os.environ)"
+SET PYTHONPATH
+python NewTest/get_subject_dirs_names.py -d
+python -d NewTest/get_subject_dirs_names.py
+python -i NewTest/get_subject_dirs_names.py
+SET PYTHONPATH="."
+python -i -d NewTest/get_subject_dirs_names.py
+python -E NewTest/get_subject_dirs_names.py
+python -c "import os; os.path.expanduser()"
+python -c "import os; os.path.expanduser('.')"
+python -c "import os; print(os.path.expanduser('.'))"
+python -c "import os; print(os.path.expanduser(os.getcwd()))"
+python -c "import os; print(os.getcwd())"
+SET PYTHONPATH=.
+SET PYTHONPATH=
+python -c "import os; os.environ['PYTHONPATH']='.'; print('PYTHONPATH' in os.environ)"
+env\scripts\deactivate
+env\scripts\activate
+python -c "import os; print('PYTHONPATH' in os.environ)"
+python NewTest/get_subject_dirs_names.py
+python setup.py develop
+python
+env\scripts\activate
+python main.py -h
+python main.py -d "d:\Downloads\Video\Final.Space.S01.WEB-DL.1080p.NewStation"
+cd c:\Sync\Code\Python\Pyano\pyano_01
+yarn add python-bridge
+npm uninstall python-bridge
+npm install python-bridge
+mklink /D "node_modules/local_modules" "c:\Sync\Code\Python\Pyano\pyano_01\src\templates\js\local_modules"
+npm start
+cd c:\Sync\Code\Python\Talship\sport-bingo\testers
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\python37
+listdir
+dirlist
+ldir
+help
+dir
+find -h
+find help
+find python
+find "python"
+find "LICENSE.txt"
+open .
+.
+py -3.7 pip install ipython
+py -3.7 -m pip install ipython
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+help
+cd engine
+set PYTHONPATH=.
+env\scripts\activate
+python
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+env\scripts\activate
+env\scripts\deactivate
+cd testers
+testenv\scripts\activate
+python --v main.py --debug
+python -vv main.py --debug
+python -v main.py --debug
+help
+dir
+find -h
+find help
+find python
+find "python"
+find "LICENSE.txt"
+open .
+.
+py -3.7 pip install ipython
+py -3.7 -m pip install ipython
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+py -3.6 -m pip install ipython
+py -3.6 -m pip install --upgrade pip
+cd engine
+virtualenv --python="c:\Program Files\Python36\python.exe" testenv
+testenv\scripts\activate
+pip install -r testrequirements.txt
+python main.py -h
+python main.py --debug=True
+python main.py --debug
+npm start
+cd c:\Sync\Code\Python\Pyano\pyano_01\src\engine
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+env\scripts\activate
+pip -v
+pip install requirements -r
+pip install -r requirements.txt
+set PYTHONPATH=.
+pip -V
+help
+SETLOCAL
+SET
+SET -h
+python NewTest/get_subject_dirs_names.py 
+python -c "os.environ"
+python -c "import os; os.environ"
+python -c "import os; print(os.environ)"
+python -c "import os; from pprint import pprint as pp; pp(os.environ)"
+python -c "import os; from pprint import pprint as pp; pp(os.environ,depth=1)"
+env\scripts\deactivate
+python -vv main.py --debug
+python -v main.py --debug
+python
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install electron-debug
+npm install --save-dev electron-reloader
+npm uninstall devtron
+npm install --save-dev devtron
+npm help prune
+npm prune --dry-run --json
+cls
+npm help install
+npm install
+cd c:\Sync\Code\Python\Pyano
+electron-forge init delete-later
+cd ..
+cd Pyano
+cd pyano_01
+npm prune
+npm audit fix
+npm audit
+npm i -g local-modules
+npm install -g local_modules
+lm link --dir src/templates/js/local_modules
+lm -h
+lm unlink --dir src/templates/js/local_modules
+npm -h
+npm search mine
+bon search local_modules
+npm search local_modules
+npm install devtron
+python c:\Google Drive\Scripts\gitignorer.py -h
+python "c:\Google Drive\Scripts\gitignorer.py" -h
+python "c:\Google Drive\Scripts\gitignorer.py" -r "c:\Sync\Code\Python\Pyano\pyano_01"
+git rm --cached -r logs/*
+git rm --cached -r logs*
+git rm --cached -r logs
+git rm --cached -r logs/
+git commit -m "remove logs"
+git push origin master
+npm start
+gcloud --version
+gcloud components update
+git rm --cached -r logs/
+git commit -m "remove logs"
+git push origin master
+npm start
+gcloud --version
+gcloud components update
+cd testers
+testenv\scripts\activate
+python main.py -h
+python main.py -v -z prod --operator
+python main.py -v --zone=prod --operator
+python main.py -v --zone=dev --operator
+lm -h
+lm unlink --dir src/templates/js/local_modules
+npm -h
+npm search mine
+bon search local_modules
+npm search local_modules
+npm install devtron
+python c:\Google Drive\Scripts\gitignorer.py -h
+python "c:\Google Drive\Scripts\gitignorer.py" -h
+python "c:\Google Drive\Scripts\gitignorer.py" -r "c:\Sync\Code\Python\Pyano\pyano_01"
+git rm --cached -r logs/*
+git rm --cached -r logs*
+git rm --cached -r logs
+git rm --cached -r logs/
+git commit -m "remove logs"
+git push origin master
+npm start
+cd c:\Sync\Code\Python\Talship\sport-bingo
+gcloud config -h
+gcloud config --help
+gcloud config set --help
+gcloud list-projects
+gcloud config set gcloudignore/enabled 
+gcloud --help
+gcloud --version
+env\scripts\activate
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console
+gcloud projects list
+gcloud projects -h
+gcloud projects 
+gcloud config set project sportbingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py" app.yaml --enable_console
+gcloud config set project sprotbingo-dev
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python -m ops.gaepush -h
+python -m ops.gaepush prod
+python -m ops.gaepush dev
+python
+python -m SimpleHTTPServer 8080
+gcloud list-projects
+gcloud config set gcloudignore/enabled 
+gcloud --help
+gcloud --version
+env\scripts\activate
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console
+gcloud projects list
+gcloud projects -h
+gcloud projects 
+gcloud config set project sportbingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py" app.yaml --enable_console
+gcloud config set project sprotbingo-dev
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python -m ops.gaepush -h
+python -m ops.gaepush prod
+python -m ops.gaepush dev
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install midiconvert
+npm install tone
+npm install webmidi
+python
+python "c:\Google Drive\Scripts\gitignorer.py" -h
+python "c:\Google Drive\Scripts\gitignorer.py" -r "c:\Sync\Code\Python\Pyano\pyano_01"
+npm uninstall
+npm uninstall tone
+npm install tone@next
+cls
+npm start
+gcloud projects -h
+gcloud projects 
+gcloud config set project sportbingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\bin\dev_appserver.py" app.yaml --enable_console
+gcloud config set project sprotbingo-dev
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python -m ops.gaepush -h
+python -m ops.gaepush prod
+python -m ops.gaepush dev
+env\scripts\activate
+pip search simplehttpserver
+pip install SimpleHTTPServer
+python SimpleHTTPServer 8080
+python -m SimpleHTTPServer 8080
+pip install simple-http-server
+pip uninstall simple-http-server
+python http_server.py -h
+python http_server.py 
+python http_server.py 8080
+python http_server.py
+python -m http.server
+python -m http.server
+testenv\scripts\activate
+python3 main.py --local --zone dev -v -n 2 --operator --operatorfast
+python main.py --local --zone dev -v -n 2 --operator --operatorfast
+python -m http.server
+cd c:\Sync\Code\Python\Talship\sport-bingo
+env\scripts\activate
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python -m SimpleHTTPServer 8080
+pip install simple-http-server
+pip uninstall simple-http-server
+python http_server.py -h
+python http_server.py 
+python http_server.py 8080
+python http_server.py
+python -m http.server
+python -m http.server
+testenv\scripts\activate
+python3 main.py --local --zone dev -v -n 2 --operator --operatorfast
+python main.py --local --zone dev -v -n 2 --operator --operatorfast
+python -m http.server
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+cd c:\Google Drive\Code\Python\mustbreak
+env\scripts\activate
+python main.py 5
+python
+python main.py 2
+python main.py 0.5
+python main.py 1
+python main.py 1 True
+python new.py 1
+\
+python http_server.py 
+python http_server.py 8080
+python http_server.py
+python -m http.server
+python -m http.server
+testenv\scripts\activate
+python3 main.py --local --zone dev -v -n 2 --operator --operatorfast
+python main.py --local --zone dev -v -n 2 --operator --operatorfast
+python -m http.server
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python main.py 5
+python main.py 2
+python main.py 0.5
+python main.py 1
+python main.py 1 True
+\
+cd c:\Google Drive\Code\Python\mustbreak
+env\scripts\activate
+python
+cls
+python new.py 1
+python new.py 1
+\
+python http_server.py 
+python http_server.py 8080
+python http_server.py
+python -m http.server
+python -m http.server
+testenv\scripts\activate
+python3 main.py --local --zone dev -v -n 2 --operator --operatorfast
+python main.py --local --zone dev -v -n 2 --operator --operatorfast
+python -m http.server
+cd c:\Sync\Code\Python\Talship\sport-bingo
+python "c:\GOOGLE_CLOUD_SDK\google-cloud-sdk\platform\google_appengine\dev_appserver.py" app.yaml --enable_console --clear_datastore
+python main.py 5
+python main.py 2
+python main.py 0.5
+python main.py 1 True
+\
+cd c:\Google Drive\Code\Python\mustbreak
+python
+cls
+env\scripts\activate
+python main.py 1
+python new.py 1
+python new.py 5
+python new.py 5 True
+cd c:\Google Drive\Code\Python\mustbreak
+python
+python main.py 1
+python new.py 1
+python new.py 5
+env\scripts\activate
+cls
+python new.py 5 True
+c:\Sync\Code\Python\Talship\sport-bingo\testers\testrequirements.txt
+python
+python main.py 1
+python new.py 1
+python new.py 5
+cls
+env\scripts\activate
+python new.py 20 True
+python new.py 5 True
+python new.py 10 True
+python new.py 10 --no_interrupt
+python new.py 10
+git rm --cached .idea/workspace.xml
+git commit -m "remove workspace.xml"
+git push origin master
+cd c:\Google Drive\Code\Python\mustbreak
+python
+python main.py 1
+python new.py 1
+python new.py 5
+env\scripts\activate
+cls
+python new.py 5 True
+c:\Sync\Code\Python\Talship\sport-bingo\testers\testrequirements.txt
+python
+python main.py 1
+python new.py 1
+python new.py 5
+cls
+env\scripts\activate
+python new.py 20 True
+python new.py 5 True
+python new.py 10 True
+python new.py 10 --no_interrupt
+python new.py 10
+git rm --cached .idea/workspace.xml
+git commit -m "remove workspace.xml"
+git push origin master
+npm install -g npm
+npm uninstall devtron
+npm install -g devtool
+devtool
+devtool src/index.js
+npm uninstall -g devtool
+npm start --help
+npm start --h
+npm start -help
+npm start -h
+npm start --inspect
+npm start --debug
+npm start
+electron-forge start --inspect-electron
+electron-forge start
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+npm start
+npm install -g typescript
+cd c:\Sync\Code\Python\Pyano\pyano_01
+code .
+electron-forge start --inspect-electron
+electron-forge start
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+npm install -g typescript
+code .
+cd ..
+cd frameless-window
+electronforge start .
+electron-forge start 
+electron-forge start .
+cd c:\Sync\Code\Python\Pyano\pyano_01
+electron .
+cd c:\Sync\Code\Python\RoxCrm
+git clone "https://github.com/pipedrive/client-nodejs.git" pipedrive
+cd pipedrive\
+npm install
+npm start
+node index.js
+cd examples
+node .
+node login.js
+python new.py 10 True
+python new.py 10 --no_interrupt
+python new.py 10
+git rm --cached .idea/workspace.xml
+git commit -m "remove workspace.xml"
+git push origin master
+npm install -g npm
+npm uninstall devtron
+npm install -g devtool
+devtool
+devtool src/index.js
+npm uninstall -g devtool
+npm start --help
+npm start --h
+npm start -help
+npm start -h
+npm start --inspect
+npm start --debug
+npm start
+electron-forge start --inspect-electron
+electron-forge start
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install -g express
+npm install -g express-generator
+cd myExpressApp
+express myExpressApp
+express mySecondExpressApp
+cd mySecondExpressApp
+SET DEBUG=mysecondexpressapp:* & npm start
+git clone "https://github.com/gtsopour/nodejs-shopping-cart.git"
+cd nodejs-shopping-cart
+node app.js
+app.js
+start app.js
+npm app.js
+npm start app.js
+cd c:\Google Drive\Code\Python\electron-sample-apps
+git clone "https://github.com/hokein/electron-sample-apps.git"
+cd electron-sample-apps
+cd frameless-window
+code .
+npm install -g electron
+electron .
+cd c:\Sync\Code\Python\RoxCrm
+git clone git://github.com/expressjs/express.git --depth 1
+cd express\
+npm install
+npm test
+cd examples
+cd ..
+node auth
+cd auth
+node .
+npm start .
+npm start
+npm start --inspect
+npm start --debug
+npm start
+electron-forge start --inspect-electron
+electron-forge start
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+cd c:\Google Drive\Code\Python\mustbreak
+env\scripts\activate
+python main.py -h
+python main.py --lock_mins=120
+env\scripts\activate
+python main.py -h
+python main.py --lock_mins=120
+cd c:\Sync\Code\Python\RoxCrm\pipedrive
+npm install pipedrive
+npm instal
+npm install
+node examples/login.js
+node examples/search.js
+node examples/search.js -h
+node examples/search.js 26c6ea095a77401df07e97a6dd17df34d3d0d3eb
+node examples/search.js 26c6ea095a77401df07e97a6dd17df34d3d0d3eb gilad
+node app.js
+app.js
+start app.js
+npm app.js
+npm start app.js
+cd c:\Google Drive\Code\Python\electron-sample-apps
+git clone "https://github.com/hokein/electron-sample-apps.git"
+cd electron-sample-apps
+cd frameless-window
+code .
+npm install -g electron
+electron .
+cd c:\Sync\Code\Python\RoxCrm
+git clone git://github.com/expressjs/express.git --depth 1
+cd express\
+npm install
+npm test
+cd examples
+node auth
+cd auth
+npm start .
+npm start
+npm start --inspect
+npm start --debug
+npm start
+electron-forge start --inspect-electron
+electron-forge start
+cd c:\Sync\Code\Python\Pyano\pyano_01
+cd c:\Google Drive\Code\Python\mustbreak
+python main.py -h
+python main.py --lock_mins=120
+npm init mypipedrive
+mkdir mypipedrive
+cd mypipedrive\
+npm init .
+npm init 
+npm install pipedrive
+npm start index.js
+node
+node .
+cd c:\Sync\Code\Python\RoxCrm\PyCharmNodeExpress
+node --help
+node --experimental-modules app.js
+node --experimental-modules app.mjs
+node --experimental-vm-modules app.mjs
+npm install babel-register babel-preset-env --save-dev
+npm start
+node bin/www
+node start.js
+npm install nodemon
+npm uninstall nodemon
+npm install -g nodemon
+nodemon start.js
+cd c:\Sync\Code\Python\RoxCrm\express
+node index.js
+node examples/auth
+node examples\content-negotiation\
+node examples/content-negotiation
+nodemon examples/content-negotiation
+cd ..
+git clone "https://github.com/realonex/microservices" realonex
+cd realonex
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install -r requirements.txt
+python main.py
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+python
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+pip install -r py3envrequirements.txt -t env
+python -m pip install --upgrade pip
+virtualenv -h
+virtualenv -v env
+python
+env\scripts\deactivate
+virtualenv --python=python3.7 env
+virtualenv --python=python3.6 env
+virtualenv --python=python3 env
+virtualenv --python=py3 env
+virtualenv
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+py3
+PY3
+env\scripts\activate
+pip install -r py3envrequirements.txt
+cd examples
+cd ports
+python receive.py
+py-3.7 -m pip install awscli
+py -3.7 -m pip install awscli
+cd ports
+python receive.py
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+pip install boto3
+python s3_sample.py 
+aws configure
+python main.py
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+python
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+python
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+pip install -r requirements.txt
+python main.py
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm start
+pip install -r py3envrequirements.txt -t env
+python -m pip install --upgrade pip
+virtualenv -h
+virtualenv -v env
+python
+env\scripts\deactivate
+virtualenv --python=python3.7 env
+virtualenv --python=python3.6 env
+virtualenv --python=python3 env
+virtualenv --python=py3 env
+virtualenv
+virtualenv --python="c:\Program Files\Python36\python.exe" env
+py3
+PY3
+pip install -r py3envrequirements.txt
+cd examples
+cd ports
+python receive.py
+env\scripts\activate
+pip install boto3
+pip freeze > requirements.txt
+boto3
+pip install awscli
+cls
+pip search aws-cli
+python aws_secrets.py
+python Main.py
+cd c:\Google Drive\Scripts
+code .
+py3
+PY3
+cd c:\sync\Code\Python\RoxCrm\dockercloud-quickstart-python
+virtualenv --python="c:\Python37\python.exe" env
+python Main.py
+cd c:\Google Drive\Scripts
+code .
+py3
+virtualenv --python="c:\Python37\python.exe" env
+PY3
+PY3/
+cd c:\sync\Code\Python\RoxCrm\dockercloud-quickstart-python
+env\scripts\activate
+pip install Flask Redis
+docker
+docker-compose up
+python app.py
+cd c:\Google Drive\Scripts
+code .
+py3
+PY3
+cd c:\sync\Code\Python\RoxCrm\dockercloud-quickstart-python
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+docker-compose up
+docker login
+virtualenv --python="c:\Python37\python.exe" env
+env\scripts\activate
+docker-compose up
+docker login
+py -3.7
+cd c:\sync\Code\Python\RoxCrm\lambda-s3-deployment-example
+virtualenv --python="c:\Python37\python.exe" shrink_venv
+shrink_venv\scripts\activate
+pip install boto3
+pip install PIL
+pip install Pillow
+cd c:\sync\Code\Python\RoxCrm\lambda-s3-deployment-example\shrink_venv\Lib\site-packages
+zip -r ./CreateThumbnail.zip .
+cd ..
+SET BUCKET_NAME=rox-property-data
+HELP
+help set
+SET conemuworkdir="C:\Google Drive\Code\Python"
+SET conemuworkdir=C:\Google Drive\Code\Python
+SET
+show
+lsdir
+ls
+shrink_venv\Scripts\deactivate
+env\scripts\activate
+docker-compose up
+docker login
+py -3.7 get-pip.py
+cd c:\python37
+python
+python get-pip.py
+py -3.7 -m pip install awscli
+cd $VIRTUAL_ENV
+cd $VIRTUAL_ENV$
+py3
+help zip
+zip /?
+zip ?
+cls
+help
+SET
+cd c:\Program Files\7-Zip
+7zg
+7zfm
+7z
+SET zip=c:\Program Files\7-Zip\7z.exe
+zip
+zip readme.txt
+PATH
+7z
+PATH
+zip
+7z -h
+7z.exe
+7z
+7z
+PATH
+zip
+7z -h
+7z.exe
+cd c:\Sync\Code\Python\RoxCrm\lambda-s3-deployment-example\shrink_venv\Lib\site-packages
+7z a -r CreateThumbnail.zip
+7z a CreateThumbnail.zip
+cd c:\Sync\Code\Python\RoxCrm\lambda-s3-deployment-example
+7z u CreateThumbnail.zip CreateThumbnail.py
+aws lambda
+aws lambda -h
+aws lambda help
+aws configure
+aws lambda update-function-code --function-name python37 --zip-file fileb://CreateThumbnail.zip
+cd c:\sync\Code\Python\RoxCrm\aws-lambda-deploy
+SET BUCKET_NAME=rox-property-data
+SET BUCKET_NAME
+7z
+install.sh
+py3
+PY3
+SET PATH=%PATH%;c:\Google Drive\Scripts\
+help
+help path
+PATH c:\Google Drive\Scripts\;%PATH%
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+help path
+PATH c:\Google Drive\Scripts\;%PATH%
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+node init -i
+npm init -i
+npm install
+npm install @tonejs/midi
+npm start
+SET PATH=%PATH%;c:\Google Drive\Scripts\
+help
+help path
+PATH c:\Google Drive\Scripts\;%PATH%
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+help path
+PATH c:\Google Drive\Scripts\;%PATH%
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+node init -i
+npm init -i
+npm install
+npm install @tonejs/midi
+npm start
+npm init
+npm install express --save
+npm install @tonejs/midi --save
+node index.js
+code .
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+env\scripts\activate
+python main.py --lock_mins=120
+python main.py -h
+python main.py --lock_mins=35
+npm init -i
+npm install @tonejs/midi
+npm start
+npm init
+npm install express --save
+node index.js
+git clone https://github.com/electron/electron-quick-start
+code .
+npm install @tonejs/midi --save
+npm install
+electon .
+electron .
+python
+python
+python
+python
+cd Scripts
+"pip list
+pip list
+pip install keyboard==0.13.2
+pip install --upgrade pip
+SET BUCKET_NAME=rox-property-data
+SET BUCKET_NAME
+7z
+install.sh
+py3
+PY3
+SET PATH=%PATH%;c:\Google Drive\Scripts\
+help
+help path
+PATH c:\Google Drive\Scripts\;%PATH%
+PATH c:\Google Drive\Scripts\ALL.ahk;%PATH%
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install @tonejs/midi --save
+npm install @tonejs/midi
+npm start
+cd c:\sync\Code\Python\RoxCrm\realonex
+env\scripts\activate
+python
+pip search docker
+py -3.7 -m pip install pystrich
+cd c:\sync\Code\Python\RoxCrm\DOCKER\my_new_docker_build
+python
+python
+python
+cd Scripts
+"pip list
+pip list
+pip install keyboard==0.13.2
+pip install --upgrade pip
+rocker run python-barcode
+docker build -t python-barcode .
+docker run python-barcode
+rocker ps
+docker ps
+docker ps -a
+docker container ls -a
+docker image ls
+cd c:\sync\Code\Python\RoxCrm\DOCKER\python-docker-example-master
+docker build -t first-example .
+docker run first-example
+bash
+aws
+aws help
+aws config
+aws configure
+aws credentials
+aws lambda
+aws lambda help
+aws lambda list-functions
+aws lambda get-account-settings
+aws lambda update-function-code help
+docker image ls
+cd c:\sync\Code\Python\RoxCrm\DOCKER\python-docker-example-master
+docker build -t first-example .
+docker run first-example
+aws
+aws help
+aws config
+aws configure
+aws credentials
+aws lambda
+aws lambda help
+aws lambda list-functions
+aws lambda get-account-settings
+aws lambda update-function-code help
+cd c:\sync\Code\Python\RoxCrm\DOCKER-LAMBDA\quiltdata
+docker build -t quiltdata/lambda .
+docker build -t /lambda .
+docker build -t . .
+docker build -t .
+docker build -t quiltdata .
+docker pull quiltdata/lambda
+echo package.sh
+package.sh echo
+package.sh quiltdata/lambda
+run package.sh
+help
+start package.sh
+package
+package.sh
+sh package.sh
+bash
+env\scripts\activate
+pythn
+python
+python examples/ports/receive
+python examples/ports/receive.py
+aws config
+aws configure
+aws credentials
+aws lambda
+aws lambda help
+aws lambda list-functions
+aws lambda get-account-settings
+aws lambda update-function-code help
+docker image ls
+cd c:\sync\Code\Python\RoxCrm\DOCKER\python-docker-example-master
+docker build -t first-example .
+docker run first-example
+aws
+aws help
+aws config
+aws configure
+aws credentials
+aws lambda
+aws lambda help
+aws lambda list-functions
+aws lambda get-account-settings
+aws lambda update-function-code help
+cd c:\sync\Code\Python\RoxCrm\DOCKER-LAMBDA\quiltdata
+docker build -t quiltdata/lambda .
+docker build -t /lambda .
+docker build -t . .
+docker build -t .
+docker build -t quiltdata .
+docker pull quiltdata/lambda
+echo package.sh
+package.sh echo
+package.sh quiltdata/lambda
+run package.sh
+help
+start package.sh
+package
+package.sh
+sh package.sh
+bash
+cd c:\Sync\Code\Python\Pyano\pyano_01
+npm install sweetalert2 --save
+npm list
+npm list -h
+npm list --help
+npm list 1
+npm install animate.css
+npm uninstall animate.css --save
+npm install animate.css --save
+npm uninstall animate.css
+npm start

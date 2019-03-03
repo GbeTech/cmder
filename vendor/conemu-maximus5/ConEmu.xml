@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2018-12-23 09:11:48" build="180528">
+		<key name=".Vanilla" modified="2019-03-03 11:52:43" build="180528">
 			<value name="ColorTable00" type="dword" data="00222827"/>
 			<value name="ColorTable01" type="dword" data="009e5401"/>
 			<value name="ColorTable02" type="dword" data="0004aa74"/>
@@ -54,7 +54,7 @@
 			<value name="ClipboardAllLines" type="hex" data="01"/>
 			<value name="ClipboardFirstLine" type="hex" data="01"/>
 			<value name="ClipboardClickPromptPosition" type="hex" data="00"/>
-			<value name="ClipboardDeleteLeftWord" type="hex" data="00"/>
+			<value name="ClipboardDeleteLeftWord" type="hex" data="01"/>
 			<value name="TrueColorerSupport" type="hex" data="01"/>
 			<value name="FadeInactive" type="hex" data="01"/>
 			<value name="FadeInactiveLow" type="hex" data="00"/>
@@ -67,7 +67,7 @@
 			<value name="SetDefaultTerminalStartup" type="hex" data="01"/>
 			<value name="DefaultTerminalNoInjects" type="hex" data="00"/>
 			<value name="DefaultTerminalConfirm" type="hex" data="01"/>
-			<value name="DefaultTerminalApps" type="string" data="explorer.exe"/>
+			<value name="DefaultTerminalApps" type="string" data="explorer.exe|totalcmd.exe"/>
 			<value name="ProcessAnsi" type="hex" data="01"/>
 			<value name="UseClink" type="hex" data="01"/>
 			<value name="StartType" type="hex" data="02"/>
@@ -124,11 +124,11 @@
 			<value name="ColorKeyValue" type="dword" data="00010101"/>
 			<value name="UseCurrentSizePos" type="hex" data="01"/>
 			<value name="WindowMode" type="dword" data="0000051f"/>
-			<value name="ConWnd Width" type="dword" data="00000033"/>
-			<value name="ConWnd Height" type="dword" data="00000009"/>
+			<value name="ConWnd Width" type="dword" data="000000ae"/>
+			<value name="ConWnd Height" type="dword" data="00000028"/>
 			<value name="Cascaded" type="hex" data="01"/>
-			<value name="ConWnd X" type="long" data="1435"/>
-			<value name="ConWnd Y" type="long" data="128"/>
+			<value name="ConWnd X" type="long" data="449"/>
+			<value name="ConWnd Y" type="long" data="237"/>
 			<value name="16bit Height" type="ulong" data="0"/>
 			<value name="AutoSaveSizePos" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="01"/>
@@ -292,7 +292,7 @@
 			<value name="MinimizeOnLoseFocus" type="hex" data="00"/>
 			<value name="DisableFarFlashing" type="hex" data="00"/>
 			<value name="DisableAllFlashing" type="hex" data="00"/>
-			<value name="FindText" type="string" data="dev_appserver"/>
+			<value name="FindText" type="string" data="tone"/>
 			<value name="FindMatchCase" type="hex" data="00"/>
 			<value name="FindMatchWholeWords" type="hex" data="00"/>
 			<value name="FindTransparent" type="hex" data="01"/>
@@ -674,7 +674,7 @@
 			<value name="StatusBar.Hide.Dpi" type="hex" data="01"/>
 			<value name="TabFlashChanged" type="long" data="8"/>
 			<value name="TabModifiedSuffix" type="string" data="[*]"/>
-			<key name="HotKeys" modified="2018-10-14 18:06:59" build="180528">
+			<key name="HotKeys" modified="2019-02-19 13:13:24" build="180528">
 				<value name="KeyMacroVersion" type="hex" data="02"/>
 				<value name="Multi.Modifier" type="dword" data="00000011"/>
 				<value name="Multi.ArrowsModifier" type="dword" data="0000005b"/>
@@ -743,7 +743,7 @@
 				<value name="ClipboardVkAllLines" type="dword" data="0000102d"/>
 				<value name="ClipboardVkFirstLine" type="dword" data="00001156"/>
 				<value name="DeleteWordToLeft" type="dword" data="0000a208"/>
-				<value name="FindTextKey" type="dword" data="00005d46"/>
+				<value name="FindTextKey" type="dword" data="00001146"/>
 				<value name="ScreenshotKey" type="dword" data="00000000"/>
 				<value name="ScreenshotFullKey" type="dword" data="00000000"/>
 				<value name="ShowStatusBarKey" type="dword" data="00000000"/>
@@ -873,7 +873,7 @@
 			</key>
 			<value name="StartCreateDelay" type="ulong" data="100"/>
 			<value name="DefaultTerminalDebugLog" type="hex" data="00"/>
-			<value name="LastMonitor" type="string" data="0,0,1920,1030"/>
+			<value name="LastMonitor" type="string" data="0,0,1920,1040"/>
 			<value name="Restore2ActiveMon" type="hex" data="00"/>
 			<value name="DownShowExOnTopMessage" type="hex" data="00"/>
 			<value name="EnvironmentSet" type="multi">
@@ -906,6 +906,19 @@
 			<value name="Language" type="string" data="en"/>
 			<value name="RestoreInactive" type="hex" data="00"/>
 			<value name="StatusBar.Hide.WMode" type="hex" data="01"/>
+		</key>
+		<key name="shell" modified="2019-02-20 17:36:40" build="180528">
+			<value name="UseCurrentSizePos" type="hex" data="01"/>
+			<value name="AutoSaveSizePos" type="hex" data="01"/>
+			<value name="Cascaded" type="hex" data="01"/>
+			<value name="IntegralSize" type="hex" data="00"/>
+			<value name="WindowMode" type="dword" data="0000051f"/>
+			<value name="ConWnd X" type="long" data="188"/>
+			<value name="ConWnd Y" type="long" data="429"/>
+			<value name="LastMonitor" type="string" data="0,0,1920,1040"/>
+			<value name="ConWnd Width" type="dword" data="00000050"/>
+			<value name="ConWnd Height" type="dword" data="00000019"/>
+			<value name="16bit Height" type="ulong" data="0"/>
 		</key>
 	</key>
 </key>
